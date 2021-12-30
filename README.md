@@ -13,3 +13,7 @@ A simple application to show a profile of user with stateful widgets
 * Row and Column Widget
 * Divider
 * AppBar
+
+### Screenshot:
+
+![HomeScreen](/img.jpeg)
